@@ -1,0 +1,8 @@
+Interfaces/BancoDeDados.class
+Interfaces/RepositorioProcessos.class
+Engine/Processo.class
+Interfaces/ServicoEmail.class
+Interfaces/ValidadorProcesso.class
+Engine/ControladorSIAPJ$1.class
+Engine/ControladorSIAPJ.class
+Interfaces/ServicoCarta.class
