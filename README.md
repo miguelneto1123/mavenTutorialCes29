@@ -1,1 +1,1 @@
-# generic-ces-29
+# CES-29 Maven Tutorial
